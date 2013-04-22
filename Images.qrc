@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/appbar.close.png</file>
+    </qresource>
+</RCC>
